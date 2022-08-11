@@ -1,4 +1,4 @@
-# Simplilearn Certification Programme
+# Simplilearn Certification Program
 
 # Stock-Forcasting-
 Stock Prediction &amp; Future Forecasting Using Stacked LSTM
